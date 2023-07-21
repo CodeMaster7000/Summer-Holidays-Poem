@@ -4,4 +4,4 @@ A blissful poem, coded in Python, on the beauty of summer. I wish all of you (in
 
 Simply run `python3 ImmersivePoem.py` in a terminal if you have Python 3.
 
-(And thanks to ChatGPT for the old-fashioned language).
+(And thanks to ChatGPT for the old-fashioned language)
